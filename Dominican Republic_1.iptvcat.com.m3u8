@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Undefined",Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Undefined",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="Undefined",Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="Undefined",Canal 4 RD
+https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Undefined",Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="Undefined",Canal del Sol 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="Undefined",Canal del Sol 65
+https://canaldelsol01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/1ydFeCk.png" group-title="Undefined",Cinevision Canal 19
+http://cinevision01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/sGzR0HV.png" group-title="Undefined",Fuego TV,Fuego TV (New!)
+http://184.173.181.2:1935/8020/8020/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Undefined",Microvision 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="Undefined",ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Undefined",Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/kNOwvRN.jpg" group-title="Undefined",TELECENTRO 13
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Undefined",TeleBendicion
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="http://i.imgur.com/s2FJJDS.png" group-title="Undefined",Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8?checkedby:iptvcat.com
