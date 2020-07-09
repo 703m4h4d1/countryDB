@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CN;VN" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",ANTV HD,越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN;IN" tvg-logo="" group-title="Undefined",APB,印度APB
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU;CN" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png,Mic_.2KNN9OHw1p.png.pagespeed.ce.2KNN9OHw1p.png" group-title="Undefined",Australia Rainbow TV,澳大利亚天和电视台
+http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="Undefined",CCTV 1,CN | CCTV 1
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/PzNBEcb.jpg" group-title="Undefined",CCTV 10,CN | CCTV 10
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/WSRY5Fu.jpg" group-title="Undefined",CCTV 12,CN | CCTV 12
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/USiqg8c.jpg" group-title="Undefined",CCTV 14,CN | CCTV 14
+http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/cr8OF2D.jpg" group-title="Undefined",CCTV 17,CN | CCTV 17
+http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/Rb0mjkC.jpg" group-title="Undefined",CCTV 2,CN | CCTV 2
+http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="Undefined",CCTV 3,CCTV-3高清
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="Undefined",CCTV 4,CN | CCTV 4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-1
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-1
+http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1综合.png" group-title="Undefined",CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/1D941LM.png" group-title="Undefined",CCTV-1
+http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="Undefined",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-10高清
+http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-10高清
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education;Undefined",CCTV-10高清,CCTV中国中央电视台-10 科教
+http://117.169.120.140:8080/live/cctv-10/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="Undefined",CCTV-11,CCTV中国中央电视台-11 戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="Undefined",CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-11戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="Undefined",CCTV-11高清,CCTV中国中央电视台-11 戏曲
+http://117.169.120.140:8080/live/cctv-11/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-12
+http://223.82.250.72/live/cctv-12/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="Undefined",CCTV-12,CCTV中国中央电视台-12 社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="Undefined",CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-12社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News;Undefined",CCTV-13,CCTV中国中央电视台-13 新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News;Undefined",CCTV-13,CCTV中国中央电视台-13 新闻
+http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-13
+http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="Undefined",CCTV-13 (Opt-2)
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-13新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News;Undefined",CCTV-13高清,CCTV中国中央电视台-13 新闻
+http://117.169.120.140:8080/live/cctv-13/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids;Undefined",CCTV-14,CCTV中国中央电视台-14 少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids;Undefined",CCTV-14 少儿频道,CCTV中国中央电视台-14 少儿
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-14少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-15
+http://223.82.250.72/live/cctv-15/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-15
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Music;Undefined",CCTV-15,CCTV中国中央电视台-15 音乐
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="Undefined",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-15音乐
+http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-1FHD
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General;Undefined",CCTV-1HD,CCTV中国中央电视台-1 综合
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-1HD
+http://223.82.250.72/live/hdcctv01/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-1综合HD
+http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General;Undefined",CCTV-1高清,CCTV中国中央电视台-1 综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General;Undefined",CCTV-1高清,CCTV中国中央电视台-1 综合
+http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="Undefined",CCTV-2,CCTV中国中央电视台-2 财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="Undefined",CCTV-2,CCTV中国中央电视台-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="Undefined",CCTV-2财经,CCTV中国中央电视台-2 财经
+http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="Undefined",CCTV-2高清,CCTV中国中央电视台-2 财经
+http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-3
+http://183.207.249.9/PLTV/3/224/3221225588/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/FiTPyCa.png" group-title="Undefined",CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-3FHD
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226360/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment;Undefined",CCTV-3HD,CCTV中国中央电视台-3 综艺
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-3综艺HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-4
+http://223.82.250.72/live/cctv-4/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="General;Undefined",CCTV-4,CCTV中国中央电视台-4 中文国际
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="General;Undefined",CCTV-4,CCTV中国中央电视台-4 中文国际
+http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/Ox1hX8q.png" group-title="Undefined",CCTV-4 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-4中文国际
+http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="General;Undefined",CCTV-4高清,CCTV中国中央电视台-4 中文国际
+http://117.169.120.140:8080/live/cctv-4/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5体育.png" group-title="Undefined",CCTV-5
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport;Undefined",CCTV-5+,CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-5+HD
+http://223.82.250.72/live/hdcctv05plus/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sport;Undefined",CCTV-5+体育赛事HD,CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sport;Undefined",CCTV-5体育HD,CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6电影.png" group-title="Undefined",CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-6
+http://183.207.249.9/PLTV/3/224/3221225548/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-6
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-6-1080p-2
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies;Undefined",CCTV-6HD,CCTV中国中央电视台-6 电影
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-6电影HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="Movies;Undefined",CCTV-6高清,CCTV中国中央电视台-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7军事农业.png" group-title="Undefined",CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="Undefined",CCTV-7,CCTV中国中央电视台-7 国防军事
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-7军事农业
+http://183.207.248.8:80/PLTV/3/224/3221225546/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-7军事农业
+http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="Undefined",CCTV-8,CCTV中国中央电视台-8 电视剧
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-8
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="Undefined",CCTV-8HD,CCTV中国中央电视台-8 电视剧
+http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="Undefined",CCTV-8HD,CCTV中国中央电视台-8 电视剧
+http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-8电视剧HD
+http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="Undefined",CCTV-8高清,CCTV中国中央电视台-8 电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="Undefined",CCTV-8高清,CCTV中国中央电视台-8 电视剧
+http://117.169.120.140:8080/live/cctv-8/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="Documentary;Undefined",CCTV-9,CCTV中国中央电视台-9 纪录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-9
+http://183.207.248.11/PLTV/4/224/3221225868/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-9
+http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-9英
+http://223.82.250.72/live/cctv-9/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-9记录
+http://121.31.30.90:8085/ysten-business/live/cctv-news/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-News
+http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/dsn1Ira.jpg" group-title="Undefined",CCTV-Русский
+http://live.cgtn.com/1000r/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/dsn1Ira.jpg" group-title="Undefined",CCTV-Русский
+http://live.cgtn.com/cctv-r.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-女性时尚
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CETV-1
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://live.cgtn.com/500/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News;Undefined",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary;Undefined",CGTN,CGTN Documentary (Backup)
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/509_300.png" group-title="Undefined",CGTN 1,CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8?checkedby:iptvcat.com
