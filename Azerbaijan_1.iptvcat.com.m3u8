@@ -1,0 +1,112 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",APA TV
+https://rtmp.apa.tv/@pagroup!23.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" group-title="Undefined",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/7k1yFZv.jpg" group-title="Undefined",ARB,AZ | ARB
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="Undefined",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ARB 24
+http://streams.livetv.az/azerbaijan/24/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ARB GUNES TV
+http://streams.livetv.az/azerbaijan/gunes/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="Undefined",ARB Kəpəz TV,AZ | ARB Kəpəz TV,Live
+https://streams.livetv.az/arbkepez/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ARB TV
+http://streams.livetv.az/azerbaijan/arb/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="Undefined",ATV,AZ | ATV
+https://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ;TR" tvg-logo="https://i.imgur.com/AoKSJYX.jpg" group-title="Undefined",ATV,ATV Turk,TR | ATV
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/Wg7A7Q8.jpg" group-title="Undefined",AZ TV,AZ | AZ TV,AZTV
+https://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AZ TV HD
+http://streams2.livetv.az/azerbaijan/aztvhd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AZ TV SD
+http://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/cvOz1Ww.png" group-title="Undefined",AZ | Dünya TV,Dunya,Dünya TV
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/E4HwCjp.jpg" group-title="Undefined",AZ | Ictimai TV,Ictimai,Ictimai TV
+https://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/K459mVl.png" group-title="Undefined",AZ | Idman TV,Idman TV
+https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/TUh1d4q.jpg" group-title="Undefined",AZ | Lider,Lider
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/Kh7ieQm.png" group-title="Undefined",AZ | Mədəniyyət,Medenivyet,Mədəniyyət
+https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/p2KxJDD.jpg" group-title="Undefined",AZ | Qafqaz TV,QafQaz,Qafqaz TV
+https://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/ENeqbGa.png" group-title="Undefined",AZ | Space,Space
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/3oYM2ol.jpg" group-title="Undefined",AZ | Xəzər,XAZAR,Xəzər
+https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AZAD AZERBAYCAN 2 SAAT,AZAD AZERBAYCAN SD
+http://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AZGEO TV
+https://tv.cdn.xsg.ge/gpb-streaming/azer/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AZNEWS TV
+https://swow2.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w_sltur.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DALGA TV
+http://streams.livetv.az/azerbaijan/dalga/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DUNYA TV
+http://streams.livetv.az/azerbaijan/dunya/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dalqa
+https://streams.livetv.az/azerbaijan/dalga/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/glJmSlO.png" group-title="Undefined",Dalğa
+http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",HADI TV
+https://5e74a9d684b2e.streamlock.net/liveTrans/channel3/chunklist_w.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ICTIMAI TV,ICTIMAI TV HD
+http://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman
+https://streams.livetv.az/azerbaijan/idman2_stream_sd/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="Undefined",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",LIDER TV
+http://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MEDENIYET TV HD
+http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/SI78uPi.png" group-title="Undefined",Muz TV
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MuzTV
+https://streams.livetv.az/azerbaijan/muztv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NAXCIVAN TV
+http://streams.livetv.az/azerbaijan/nax/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",QAFQAZ TV
+http://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",REAL TV
+http://streams.livetv.az/azerbaijan/real/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",SPACE TV
+http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",UMUD SHOW TV
+https://cdn-utvshow.yayin.com.tr/utvshow/utvshow_480p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",UMUD TV
+https://cdn-umudtv.yayin.com.tr/umudtv/umudtv_480p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",XEZER TV
+http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/geyLqiw.jpg" group-title="Undefined",İctimai TV
+https://node19.connect.az:8086/ch1/ch1.hi.m3u8?checkedby:iptvcat.com
