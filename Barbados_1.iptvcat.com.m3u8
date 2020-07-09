@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="BB" tvg-logo="https://i.imgur.com/GjJu9Rm.jpg" group-title="Undefined",BB | CBC TV 8,CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BB" tvg-logo="https://i.imgur.com/wbuv3Sl.jpg" group-title="Undefined",Trident 10 TV
+http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8?checkedby:iptvcat.com
