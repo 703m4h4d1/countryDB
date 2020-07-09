@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",AL HAYAT rtm
+rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",AR-الوطن,AR:Watan TV,Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Al Jazeera
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7861.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Al-Magharibia
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7864.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Alrai
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7591.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 1
+http://clientbox.tv:80/Cesar65/cJzqe9z7/2602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 1 HDV
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4658?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 10 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4667?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 2 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4659?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 3
+http://clientbox.tv:80/Cesar65/cJzqe9z7/2825?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 4
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3085?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 4 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 5
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 6
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3087?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 6 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4663?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 7
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 7 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4664?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 8 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4665?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports 9 HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4666?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports Global HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/3094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Bein Sports News HD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/2745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/220px-Logo_Canal_Algerie.svg.png" group-title="Undefined",Canal Algérie
+http://178.132.3.162:88/canal_algerie/video.m3u8?token=test&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/GxSZcYi.png" group-title="Undefined",Canal Algérie
+http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/T6bEOQt.png" group-title="Undefined",Chaine Nord-Africaine
+http://str81.creacast.com/cna/live.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",DIJAH  rtm
+rtmp://91.134.145.75/?gmswf=/Dijlah&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Dijlah TV  jordan rtm
+rtmp://91.134.145.75/Dijlah?speed=1/?speed=1&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Dubai Drama
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7909.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Dubai Racing 3
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Dubai Sports 2
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167511?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Dubai Sports 3
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Undefined",EL nahar Alg,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",El Djazair N1
+http://82.212.74.5:8000/live/hls/7728.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Undefined",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",HRN 2 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",HRN FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",KSA Sports 1 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/8654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",KSA Sports 2 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",KSA Sports 3 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",KSA Sports 4 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/167416?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",LT  libya  rtm
+rtmp://82.212.74.2/live//7221?v=&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",Lana TV FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/4349?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",MBC Action
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7592.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",MBC Drama
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7597.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",MBC bollywood
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7594.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",MBC masr
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7595.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",MBC1
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7589.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Nogoum FM TV  rtm
+rtmp://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",OSN YAHALA
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7950.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",SA 24 Sport TV
+http://clientbox.tv:80/Cesar65/cJzqe9z7/28246?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Star Cinema
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7929.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Star Cinema 1
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/7930.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 1 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 10 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51909?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 2 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 3 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51916?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 4 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51915?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 5 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 7 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51912?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Sport",beIN Sports 8 FHD
+http://clientbox.tv:80/Cesar65/cJzqe9z7/51911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة10
+https://roya-vod.ercdn.net/hls/_/VP/ntlzfuzhzrhhvr196p81x0gif4fkzigu6koedpvt/ntlzfuzhzrhhvr196p81x0gif4fkzigu6koedpvt.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة11
+https://roya-vod.ercdn.net/hls/Y/M_/dnotaephcx1gau7pntbhug9mpogllihm79j0srwk/dnotaephcx1gau7pntbhug9mpogllihm79j0srwk.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة12
+https://roya-vod.ercdn.net/hls/e/-l/wyxpdu2o4s0gndyyp8xfsicf0nef45y9ofcmrfu2/wyxpdu2o4s0gndyyp8xfsicf0nef45y9ofcmrfu2.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة13
+https://roya-vod.ercdn.net/hls/u/R2/9lnhjex2c6hjqbnltb6jbvl3qc13zr40viphnop6/9lnhjex2c6hjqbnltb6jbvl3qc13zr40viphnop6.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة14
+https://roya-vod.ercdn.net/hls/6/vE/pvgb4npofu1lx4gih4djftnehfphvwcrdeqmbi1t/pvgb4npofu1lx4gih4djftnehfphvwcrdeqmbi1t.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة15
+https://roya-vod.ercdn.net/hls/X/y4/cv1ugha0ajcf9lngnn7bgqlaeizm559jumcpayj8/cv1ugha0ajcf9lngnn7bgqlaeizm559jumcpayj8.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة16
+https://roya-vod.ercdn.net/hls/U/ZG/jpss27c0tokluzjz2bsuvgah3jngowjbzm9vcvup/jpss27c0tokluzjz2bsuvgah3jngowjbzm9vcvup.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة17
+https://roya-vod.ercdn.net/hls/U/UA/aqwaadtbvqjrsgjjtleymfzpvyqsrerghxwjnout/aqwaadtbvqjrsgjjtleymfzpvyqsrerghxwjnout.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة18
+https://roya-vod.ercdn.net/hls/Z/0-/le36jmjpu7vgmk56rckdziqaoexr1daoebsdsroi/le36jmjpu7vgmk56rckdziqaoexr1daoebsdsroi.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة19
+https://roya-vod.ercdn.net/hls/-/i2/zurydvkdekeuptcnblr285dpzaadnx81u0raukch/zurydvkdekeuptcnblr285dpzaadnx81u0raukch.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة2
+https://roya-vod.ercdn.net/hls/L/rn/jrzjss8ocesi6z0amaq937luezztp78q1lwqkyfk/jrzjss8ocesi6z0amaq937luezztp78q1lwqkyfk.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة20
+https://roya-vod.ercdn.net/hls/3/7a/kqs4jnddev0wtuzylsknrrxgzpdlivbpzn50aesb/kqs4jnddev0wtuzylsknrrxgzpdlivbpzn50aesb.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة21
+https://roya-vod.ercdn.net/hls/2/cW/qstyj00j311cniod6plb1y0nudyi6omwazwfwydt/qstyj00j311cniod6plb1y0nudyi6omwazwfwydt.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة22
+https://roya-vod.ercdn.net/hls/M/VX/32sftgolbykrfc2s4r3m0kdsnjmhonkoz37ekhjh/32sftgolbykrfc2s4r3m0kdsnjmhonkoz37ekhjh.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة23
+https://roya-vod.ercdn.net/hls/s/UE/mtkg3elqvly9tloqenljcsndz8msp7efwbgxs2lf/mtkg3elqvly9tloqenljcsndz8msp7efwbgxs2lf.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة24
+https://roya-vod.ercdn.net/hls/T/j-/r3bytojpzpephiihly0adsuttufuirbsx74x3rnl/r3bytojpzpephiihly0adsuttufuirbsx74x3rnl.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة25
+https://roya-vod.ercdn.net/hls/3/1k/aoyaxbyhhp3ohddryh0ssi6rl1wqmr205axybsam/aoyaxbyhhp3ohddryh0ssi6rl1wqmr205axybsam.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة26
+https://roya-vod.ercdn.net/hls/J/_5/rkavxv4pwhcigithmnswsjfapzyo83gazudgqkm5/rkavxv4pwhcigithmnswsjfapzyo83gazudgqkm5.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة27
+https://roya-vod.ercdn.net/hls/n/N0/ztezdpwpdfrhcl0c7vfggqucanqdrucyjubxgff6/ztezdpwpdfrhcl0c7vfggqucanqdrucyjubxgff6.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة28
+https://roya-vod.ercdn.net/hls/O/5H/t9sbgyrll9a7ndsdc2m4nzwcwofabl7zwed6uapq/t9sbgyrll9a7ndsdc2m4nzwcwofabl7zwed6uapq.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة29
+https://roya-vod.ercdn.net/hls/1/GK/esbrabmis782nby1lr3qgwv2nhwn8a3xvfhxizvu/esbrabmis782nby1lr3qgwv2nhwn8a3xvfhxizvu.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة3
+https://roya-vod.ercdn.net/hls/c/5x/qophy96d1p3lfamlh8owas8qcjldjsathbr9klgf/qophy96d1p3lfamlh8owas8qcjldjsathbr9klgf.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة30
+https://roya-vod.ercdn.net/hls/y/Zz/wo7l3fx99ved439875pg5rir5q3e2qbyozdsz20a/wo7l3fx99ved439875pg5rir5q3e2qbyozdsz20a.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة4
+https://roya-vod.ercdn.net/hls/N/iG/ptb9dhufjraz4cg3drfyalrd47ptovgkbpufws3a/ptb9dhufjraz4cg3drfyalrd47ptovgkbpufws3a.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة5
+https://roya-vod.ercdn.net/hls/u/tk/qpr6kkgzayqel4vhbk4e2tgyb0mq2ygjug23osj8/qpr6kkgzayqel4vhbk4e2tgyb0mq2ygjug23osj8.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة6
+https://roya-vod.ercdn.net/hls/s/Rq/sqfn7vjmkl6ex5ggb794gflegf4vtjdrihpt2izr/sqfn7vjmkl6ex5ggb794gflegf4vtjdrihpt2izr.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة7
+https://roya-vod.ercdn.net/hls/D/BY/izefosfv9lbgayhqohdgptsmnjppbhw7ckbxxhbo/izefosfv9lbgayhqohdgptsmnjppbhw7ckbxxhbo.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة8
+https://roya-vod.ercdn.net/hls/e/xo/yaqrkiazdvi7kgkbo8guoppxhkyq0yayeg9e6nzl/yaqrkiazdvi7kgkbo8guoppxhkyq0yayeg9e6nzl.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",خربة9
+https://roya-vod.ercdn.net/hls/m/PN/ot0pbkrlntngs3vn9njjpdgloeingoh6gghrqzhe/ot0pbkrlntngs3vn9njjpdgloeingoh6gghrqzhe.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 1
+https://roya-vod.ercdn.net/hls/2/Lf/o5hodu1er7mqgjjhuxvm0ojrmnzlzzgmhpaxiiqe/o5hodu1er7mqgjjhuxvm0ojrmnzlzzgmhpaxiiqe.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 1
+https://roya-vod.ercdn.net/hls/R/gl/ljc0sektqugyo1tgksdwlum1ttbniqhyqdnigqxg/ljc0sektqugyo1tgksdwlum1ttbniqhyqdnigqxg.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 10
+https://roya-vod.ercdn.net/hls/X/k5/e6gln7njeh9fa2wdvxcjhdfbegksoqmxdpo2fmw8/e6gln7njeh9fa2wdvxcjhdfbegksoqmxdpo2fmw8.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 10
+https://roya-vod.ercdn.net/hls/h/Nt/fthpsvt3ygzfbumzdal4a6zrofkmkbw2vzew0rv5/fthpsvt3ygzfbumzdal4a6zrofkmkbw2vzew0rv5.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 11
+https://roya-vod.ercdn.net/hls/Q/mz/dxgep4soii1cokmmglpnrrhwvpfiaywy8701bqvw/dxgep4soii1cokmmglpnrrhwvpfiaywy8701bqvw.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 11
+https://roya-vod.ercdn.net/hls/F/GW/9gw8lmhvbn9xg053pb3nikluou85lbd2lky69qnp/9gw8lmhvbn9xg053pb3nikluou85lbd2lky69qnp.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 12
+https://roya-vod.ercdn.net/hls/I/SM/zuyotf5k5gfdebnok46whabned45eqca40hfynms/zuyotf5k5gfdebnok46whabned45eqca40hfynms.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 12
+https://roya-vod.ercdn.net/hls/n/sC/ejiqmivpllnp0nsrc2yfddfjkc4yn2cmokrc3f9o/ejiqmivpllnp0nsrc2yfddfjkc4yn2cmokrc3f9o.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 13
+https://roya-vod.ercdn.net/hls/_/2y/zrggbbkwo9dklfn2fahypypv1d6e0ncds5sg1mxu/zrggbbkwo9dklfn2fahypypv1d6e0ncds5sg1mxu.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 13
+https://roya-vod.ercdn.net/hls/d/0r/piiokrlfnpmzxk16n5peai2whyrv7nrmquf4k1b3/piiokrlfnpmzxk16n5peai2whyrv7nrmquf4k1b3.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 14
+https://roya-vod.ercdn.net/hls/u/ID/pqtvvbfhqcs87o5q9j4zhwdbdl1p2s0krffdw42j/pqtvvbfhqcs87o5q9j4zhwdbdl1p2s0krffdw42j.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ضيعة ضايعة 14
+https://roya-vod.ercdn.net/hls/F/QN/onxrvgadj28udmf0nxkzvidge78jqvccadshq7tl/onxrvgadj28udmf0nxkzvidge78jqvccadshq7tl.lb.smil/chunklist_b800000_t64ODAwa2Jwcw==.m3u8?checkedby:iptvcat.com
