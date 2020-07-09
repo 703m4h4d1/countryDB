@@ -1,0 +1,80 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",24HORAS
+http://heinentv.ddns.net:25461/mil/mil/16168?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="Undefined",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="Undefined",Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",CANAL 13
+http://heinentv.ddns.net:25461/mil/mil/16169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",CDO BASICO
+http://heinentv.ddns.net:25461/mil/mil/16173?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",CDO PREMIUN
+http://heinentv.ddns.net:25461/mil/mil/16174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/Z1YqTFZ.png" group-title="Undefined",CL | TV Chile,TV Chile
+https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/zypeHFL.jpg" group-title="Undefined",Campus TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/SVplx7K.jpg" group-title="Undefined",Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",ETC TV
+http://heinentv.ddns.net:25461/mil/mil/16176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV,El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Undefined",El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/6N5OjYv.jpg" group-title="Undefined",EmolTv
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/DZTIv7w.png" group-title="Undefined",Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Undefined",ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",MEGA
+http://heinentv.ddns.net:25461/mil/mil/16179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL;ES" tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Sport;Undefined",Madird tv,Real Madrid,Real Madrid HD,Real Madrid TV,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/a7iI5NO.jpg" group-title="Undefined",Quinta TV
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist_w19663722.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/CcLr5lh.png" group-title="Undefined",Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/lsg8u59.png" group-title="Sport",Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/YsHJxPn.png" group-title="Undefined",T13 Radio
+https://t13-radio-live.cdn.nedmedia.io/index_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/YsHJxPn.png" group-title="Undefined",T13 Radio
+https://t13-radio-live.cdn.nedmedia.io/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Undefined",TV5 Linares
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Undefined",TV5 Linares
+https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Undefined",UESTV
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Undefined",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Undefined",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/897eGEd.png" group-title="Undefined",VC ONLINE HD
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",Wow (El Salvador),WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?checkedby:iptvcat.com
