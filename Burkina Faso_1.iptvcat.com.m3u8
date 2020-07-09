@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="BF" tvg-logo="https://i.imgur.com/Im0ZZt2.png" group-title="Undefined",BF | RTB,RTB
+https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BF" tvg-logo="https://i.imgur.com/RDokpwD.png" group-title="Undefined",Impac TV
+https://edge10.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8?checkedby:iptvcat.com
