@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Undefined",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Undefined",B1 TV,BA | B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Undefined",Hema Televizija
+http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
