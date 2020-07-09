@@ -1,0 +1,32 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="Undefined",Anexion TV
+https://rtmp.info/anexiontv/envivo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",CANAL 14 TV SUR
+http://heinentv.ddns.net:25461/mil/mil/16378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/7wW5sqW.png" group-title="Undefined",CR | Enlace,Enlace
+https://d31c1svk0i6vkc.cloudfront.net/enlace/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/D0hXtmn.jpg" group-title="Undefined",CR | TV Sur Canal 14
+https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Undefined",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Multimedios CR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="Undefined",Multimedios Costa Rica
+http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="Undefined",Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",REPRETEL 11
+http://heinentv.ddns.net:25461/mil/mil/16374?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",REPRETEL 6
+http://heinentv.ddns.net:25461/mil/mil/16373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_11.png" group-title="Undefined",Repretel 11
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="Undefined",Repretel 6
+https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TELETICA 7
+http://heinentv.ddns.net:25461/mil/mil/16372?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",TELEUNO
+http://heinentv.ddns.net:25461/mil/mil/16375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="Undefined",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8?checkedby:iptvcat.com
