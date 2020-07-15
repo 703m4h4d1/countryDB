@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="FO" tvg-logo="https://i.imgur.com/srXY7yg.png" group-title="Undefined",FO | KVF,KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FO" tvg-logo="" group-title="Undefined",KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w65435769_b300000_slfao.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FO" tvg-logo="" group-title="Undefined",KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w65435769_b2236000_slfao.m3u8?checkedby:iptvcat.com
