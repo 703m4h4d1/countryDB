@@ -200,3 +200,168 @@ http://mhiptv.com:8888/naeem/naeem123/2931?checkedby:iptvcat.com
 http://mhiptv.com:8888/naeem/naeem123/2930?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",France_O
 http://mhiptv.com:8888/naeem/naeem123/2929?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="Undefined",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Game_One
+http://mhiptv.com:8888/naeem/naeem123/4864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Golf_channel
+http://mhiptv.com:8888/naeem/naeem123/4850?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="Undefined",Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Grand Lille TV HD
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Gulli
+http://mhiptv.com:8888/naeem/naeem123/4861?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",HISTOIRE
+http://mhiptv.com:8888/naeem/naeem123/4851?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Undefined",Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Undefined",Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",IL TV
+http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Undefined",ILTV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Undefined",ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Info_Sport
+http://mhiptv.com:8888/naeem/naeem123/4869?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",J-ONE
+http://mhiptv.com:8888/naeem/naeem123/4849?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",L'EQUIPE_21
+http://mhiptv.com:8888/naeem/naeem123/4873?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",LA CHAINE NORMANDE
+http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",LCP
+http://mhiptv.com:8888/naeem/naeem123/4880?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",M6
+http://mhiptv.com:8888/naeem/naeem123/4863?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MEZZO
+http://mhiptv.com:8888/naeem/naeem123/4878?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV Dance
+http://mhiptv.com:8888/naeem/naeem123/19134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV France
+http://mhiptv.com:8888/naeem/naeem123/19135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV Hits
+http://mhiptv.com:8888/naeem/naeem123/19136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MTV Live
+http://mhiptv.com:8888/naeem/naeem123/19137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Motorsport_TV
+http://mhiptv.com:8888/naeem/naeem123/4847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",NRJ12
+http://mhiptv.com:8888/naeem/naeem123/4858?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Nickelodeon
+http://mhiptv.com:8888/naeem/naeem123/4882?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",PLANETE +
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/4048.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Paris_Premiere
+http://mhiptv.com:8888/naeem/naeem123/3906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="Undefined",Persiana 1
+http://51.15.229.209/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 2 Cinema
+http://51.15.193.156/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 3 Junior
+http://51.158.74.129/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 4 Iranian
+http://51.158.97.214/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 5 Documentary
+http://163.172.174.60/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Undefined",Persiana 6 Music
+http://163.172.147.113/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Piwi
+http://mhiptv.com:8888/naeem/naeem123/4845?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Piwi +
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/18384.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Undefined",Poker TV Arabia
+http://51.15.193.127/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Undefined",Poker TV France
+http://51.15.254.60/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",RMC_Découvert
+http://mhiptv.com:8888/naeem/naeem123/4846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC_SPORT_2
+http://mhiptv.com:8888/naeem/naeem123/4687?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC_SPORT_3
+http://mhiptv.com:8888/naeem/naeem123/4688?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC_SPORT_HD1
+http://mhiptv.com:8888/naeem/naeem123/4686?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
+http://rt-france.secure.footprint.net/1107.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
+https://rt-france.secure.footprint.net/1107.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE;FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Music;Undefined",Radio Contact,Radio Contact Vision
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Rmc_Story
+http://mhiptv.com:8888/naeem/naeem123/4874?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",SEASON
+http://mhiptv.com:8888/naeem/naeem123/4876?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="Undefined",Salamat Tube TV
+http://51.158.116.146/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/1Tfidgz.png" group-title="Sport",Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Syfy
+http://mhiptv.com:8888/naeem/naeem123/4853?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TF1
+http://mhiptv.com:8888/naeem/naeem123/2921?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="Undefined",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-1) (New!),TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-2) (New!),TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5 Monde (Opt-3) (New!),TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Undefined",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Undefined",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Undefined",TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Undefined",TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Undefined",TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TV5_MONDE
+http://mhiptv.com:8888/naeem/naeem123/2920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Undefined",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Undefined",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Undefined",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",TV_Breizh
+http://mhiptv.com:8888/naeem/naeem123/3893?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Trace urban
+http://mhiptv.com:8888/naeem/naeem123/6968?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Trek
+http://mhiptv.com:8888/naeem/naeem123/4867?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Voyage
+http://mhiptv.com:8888/naeem/naeem123/4879?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",W9
+http://mhiptv.com:8888/naeem/naeem123/2919?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",e_enter
+http://mhiptv.com:8888/naeem/naeem123/2918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",nick4teens
+http://mhiptv.com:8888/naeem/naeem123/4857?checkedby:iptvcat.com
+
