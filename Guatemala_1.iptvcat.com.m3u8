@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="GT" tvg-logo="" group-title="Undefined",CANAL 7
+http://heinentv.ddns.net:25461/mil/mil/16348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GT" tvg-logo="" group-title="Undefined",CANAL ANTIGUA
+http://heinentv.ddns.net:25461/mil/mil/16349?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GT" tvg-logo="" group-title="Undefined",TN 23
+http://heinentv.ddns.net:25461/mil/mil/16353?checkedby:iptvcat.com
