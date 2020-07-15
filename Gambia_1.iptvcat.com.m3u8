@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="GM" tvg-logo="https://i.imgur.com/yj1tLOJ.png" group-title="Undefined",QTV
+https://player.qtv.gm/hls/live.stream.m3u8?checkedby:iptvcat.com
