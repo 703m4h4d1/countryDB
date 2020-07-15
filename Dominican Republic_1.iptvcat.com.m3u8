@@ -1,13 +1,13 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Undefined",Acento TV
-http://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Undefined",Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="Undefined",Canal 4 RD
-http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Undefined",Acento TV
+http://acentotv01.streamprolive.com/hls/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="Undefined",Canal 4 RD
 https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/UI8DIYE.jpg" group-title="Undefined",Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/qExHiPc.png" group-title="Undefined",Canal Amé 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DO" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="Undefined",Canal del Sol 65
