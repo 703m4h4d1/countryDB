@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="Undefined",ETV EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETV2.ee.png" group-title="Undefined",ETV+ EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETVPlus.ee.png" group-title="Undefined",ETV2 EE
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8?checkedby:iptvcat.com
