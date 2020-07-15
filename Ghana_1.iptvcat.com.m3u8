@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="GH" tvg-logo="https://i.imgur.com/d4UOolK.jpg" group-title="Undefined",Resurrection TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GH" tvg-logo="https://i.imgur.com/rTsl8XB.jpg" group-title="Undefined",TV Africa (Ghana)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8?checkedby:iptvcat.com
